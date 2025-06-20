@@ -1,0 +1,6 @@
+﻿  SceneManager.cpp
+C:\Users\keato\OneDrive\Desktop\CS330_Assignments\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(223,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\keato\OneDrive\Desktop\CS330_Assignments\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(611,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\keato\OneDrive\Desktop\CS330_Assignments\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(611,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\keato\OneDrive\Desktop\CS330_Assignments\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(611,17): warning C4305: 'argument': truncation from 'double' to 'float'
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\keato\OneDrive\Desktop\CS330_Assignments\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
