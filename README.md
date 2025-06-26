@@ -1,10 +1,10 @@
 # CS-330 Computer Graphics Final Project
 
 # How do I approach designing software?
-I start by figuring out what the software needs to do and who will use it. Then I make a plan, often using simple drawings or charts to organize how everything will work before writing any code.
+I start by figuring out what the software needs to do and who will use it. Then I make a plan, often using simple drawings such as flow charts to organize how everything will work before writing any code.
 
 # What new design skills has your work on the project helped you to craft?
-I learned how to plan out 3D scenes better, use lighting and space, and make things look more real while keeping the design organized and easy to manage.
+I learned how to plan out 3D scenes better, use lighting and space, and make things look more realistic while keeping the design organized and easy to manage.
 
 # What design process did you follow for your project work?
 I planned out my ideas, made a basic version of the project, tested it, and kept improving it step by step until it looked and worked the way I wanted.
