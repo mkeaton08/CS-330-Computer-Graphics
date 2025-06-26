@@ -1,4 +1,4 @@
-# CS-330 Computer Graphics Final Project
+# CS-330 Computer Graphics & Visualization
 
 # How do I approach designing software?
 I start by figuring out what the software needs to do and who will use it. Then I make a plan, often using simple drawings such as flow charts to organize how everything will work before writing any code.
